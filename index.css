@@ -34,7 +34,7 @@ nav ul {
 }
 
 .banner {
-    background-image: url('../assets/Hero-bg.png');
+    background-image: url('assets/Hero-bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
